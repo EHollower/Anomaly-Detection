@@ -1,7 +1,7 @@
 # Anomaly Detection Laboratory
 
-**Student:** Bucă Mihnea-Vicentiu  
-**Course:** Distributed System 408
+**Student:** Bucă Mihnea-Vicentiu Distributed System
+**Group::** 408
 
 This repository contains laboratory work and solutions for the Anomaly Detection course.
 
@@ -38,5 +38,3 @@ pip install scikit-learn pyod
 - **keras, tensorflow** - Will be required in future labs
 
 ---
-
-*Happy coding!* 🚀
