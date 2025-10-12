@@ -1,7 +1,8 @@
 # Anomaly Detection Laboratory
 
-**Student:** Bucă Mihnea-Vicentiu Distributed System
-**Group::** 408
+**Student:** Bucă Mihnea-Vicentiu 
+**Master:** Sisteme Distribuite
+**Group:** 408
 
 This repository contains laboratory work and solutions for the Anomaly Detection course.
 
